@@ -9,9 +9,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jknoda)](https://github.com/jknoda)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jknoda/)](https://www.linkedin.com/in/jknoda/)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/jorge.k.noda/)](https://www.linkedin.com/in/jknoda/)  
+<a href="https://linkedin.com/in/jknoda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jknoda" height="30" width="40" /></a>
+<a href="https://fb.com/jorge.k.noda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jorge.k.noda" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
