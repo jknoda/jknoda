@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jknoda&label=Profile%20views&color=0e75b6&style=flat" alt="jknoda" /> </p>
 
 - 🔭 Atualmente estou desenvolvendo um projeto particular [Jogo de cartas](https://github.com/jknoda/PlayCards)
-- Com [geração de dados](https://github.com/jknoda/jknservices) para desenvolvimento de Dashboard com estatísticas dos jogos como estudo e treinamento de conceitos de data sciencie
+- Com [geração de dados](https://github.com/jknoda/jknservices) para desenvolvimento de [Dashboard](https://github.com/jknoda/buracostat) com estatísticas dos jogos como estudo e treinamento de conceitos de data sciencie
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
