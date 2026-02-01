@@ -3,9 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jknoda&label=Profile%20views&color=0e75b6&style=flat" alt="jknoda" /> </p>
 
-- 🔭 Atualmente estou desenvolvendo um projeto particular [Jogo de cartas](https://github.com/jknoda/PlayCards)
-- Com [geração de dados](https://github.com/jknoda/jknservices) para desenvolvimento de [Dashboard](https://github.com/jknoda/PlayCardStatistics) com análises usando [Python](https://github.com/jknoda/PyPlayCards) dos jogos como estudo e treinamento de conceitos de data sciencie
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jknoda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jknoda" height="30" width="40" /></a>
